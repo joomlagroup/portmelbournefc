@@ -1,0 +1,336 @@
+/*{border:none;margin:0;}*/
+*{border:none;margin:0;padding:0}
+img{ max-width:100%; height:auto;}
+body{background:url(../images/bg.jpg) #eeeff1 top center no-repeat;font-family:Arial;margin:0;padding:0}
+.mainContainer{width:1000px;margin:auto}
+.headerContainer .logo{float:left;width:auto;margin:17px 0 0 8px}
+.menuMain{float:right;width:auto;background:url(../images/menuBg.jpg) left top repeat-x;border-radius:5px;margin:144px 20px 0 0}
+.menuMain ul{float:left;list-style:none;margin:0;padding:0}
+.menuMain ul li{float:left;position:relative}
+.menuMain ul li a{float:left;text-decoration:none;color:#fff;padding:9px 6px 8px;}
+.menuMain ul li a:hover{background:#3148A3;}
+.menuMain ul li ul{display:none; background:#4B5EAB;color:#fff; position:absolute; width:200px; z-index:999999; margin:32px 0 0;padding:4px 0 10px}
+.menuMain ul li:hover ul{display:block;}
+.menuMain ul li li a:hover{color:#fff;background:#3148A3; display:block; float:none;}
+.menuMain ul li.active{background:#0A4E8D}
+.menuMain ul li ul li{float:left;position:relative;width:100%}
+.activeLi{background:#0A4E8D;color:#fff}
+.middleContainer{float:left;width:98%;height:1178px;margin:20px 0 0}
+.middleContainer .middleLeft{float:left;width:626px;margin:0 0 0 8px;}
+.middleContainer .middleRight{float:right;width:304px}
+.sliderContainer{float:left;width:100%;}
+.sliderInfoContainer{float:left;width:625px;height:258px;margin:20px 0 25px}
+.upcomingEvents{width:330px;float:left;margin:0 36px 0 0}
+.upcomingEvents h1{width:100%;float:left;color:#30459E;font-size:24px;padding:5px 0}
+.upcomingEvents .postContainer{float:left;width:100%;margin:10px 0}
+.upcomingEvents .postContainer .postImg{float:left;width:110px;text-align:center;}
+.upcomingEvents .postContainer .postTxt{float:left;width:208px;border-bottom:solid #ADADAD 1px;padding:0 0 25px}
+.upcomingEvents .postContainer .lastPostTxt{border-bottom:0}
+.upcomingEvents .postContainer .postTxt h1{float:left;width:100%;color:#30459E;font-size:14px}
+.upcomingEvents .postContainer .postTxt .postDesc{float:left;font-size:12px;width:100%;line-height:16px}
+.upcomingEvents .postContainer .postTxt .postDesc a{float:right;color:#000;font-weight:700}
+.socialInfoContainer{float:left;width:260px;height:330px;}
+.socialInfoContainer .twitterContainer{float:left;width:100%;margin:20px 0 0}
+.upcomingContainer{border:4px solid #FE0000;box-shadow:0 0 3px 2px #56535A;float:right;width:90%;border-radius:8px;padding:8px 10px}
+.upcomingContainer h1{float:left;font-size:24px;font-weight:400;text-align:center;width:88%;padding:0 20px}
+.upcomingContainer .upcomingImg{float:left;width:100%;text-align:center;margin:8px 0}
+.upcomingContainer .dateInfo{float:left;width:100%;text-align:center;color:#ff2100;font-size:16px;font-weight:700;margin:8px 0 0;padding:4px 0}
+.upcomingContainer .clickTxt{float:left;font-weight:700;text-align:center;font-size:14px;width:100%;color:#30459e;padding:4px 0}
+.newsletterContainer{float:left;width:100%;text-align:center;background:#EE2B25;color:#fff;margin:26px 0 0;padding:5px 0 10px}
+.newsletterContainer h1{float:left;font-weight:400;width:100%;font-size:26px;color:#fff}
+.newsletterContainer input[type=text]{background:#fff;border:none;width:285px;padding:6px 0}
+.showYourSupport{float:left;width:100%;margin:10px 0 0}
+.sponsorContainer{float:left;width:100%;margin:5px 0 0;height:424px;}
+.sponsorContainer span{float:left;width:100%;margin:0 0 6px;text-align:center}
+.shopPortContainer{float:left;width:100%;height:180px;margin:15px 0 0 0; }
+.shopPortContainer h1{float:left;width:100%;text-align:center;color:#30459E;padding:5px 0;font-size:24px}
+.footerContainer{float:left;width:100%;color:#fff;margin:130px 0 16px}
+.footerContainer h1{float:left;width:100%;text-transform:uppercase;font-size:24px;font-weight:400;margin:0 0 4px}
+.footerMenu{float:left;width:250px;margin:0 40px 0 50px}
+.footerMenu ul{float:left;width:100%;list-style:none}
+.footerMenu ul li{float:left;width:100%;margin:4px 0 0}
+.footerMenu ul li a{color:#fff;text-decoration:none}
+.footerContact p{line-height:22px;float:left;width:100%}
+.footerSocial h1{margin:0 0 14px}
+.footerSocial a{margin:0 14px}
+.headerContainer,.socialInfoContainer .fbLikeContainer{float:left;width:100%}
+.footerContact,.footerSocial{float:left;width:300px;text-align:center}
+.cmsContainer{float:left;width:100%;margin:0 0 0 10px;height:950px;overflow-y:scroll; padding-right:4px;}
+.cmsContainer h1{color: #30459E;    float: left;     font-size: 24px;    padding: 5px 0; width: 100%;}
+.cmsContainer .cmsDesc,.entry-content{float:left;width:100%;text-align:justify;font-size:13px;line-height:20px;}
+#featured{width:400px;padding-right:250px;position:relative;border:5px solid #ccc;height:250px;background:#fff}
+#featured ul.ui-tabs-nav{position:absolute;top:0;left:400px;list-style:none;width:250px;margin:0;padding:0}
+#featured ul.ui-tabs-nav li{font-size:12px;color:#666;padding:1px 0 1px 13px}
+#featured ul.ui-tabs-nav li img{float:left;background:#fff;border:1px solid #eee;margin:2px 5px;padding:2px}
+#featured ul.ui-tabs-nav li span{font-size:11px;font-family:Verdana;line-height:18px}
+#featured li.ui-tabs-nav-item a{display:block;height:60px;color:#333;background:#fff;line-height:20px}
+#featured li.ui-tabs-nav-item a:hover{background:#f2f2f2}
+#featured li.ui-tabs-selected{background:url(images/selected-item.gif) top left no-repeat}
+#featured ul.ui-tabs-nav li.ui-tabs-selected a{background:#ccc}
+#featured .ui-tabs-panel{width:400px;height:250px;background:#999;position:relative}
+#featured .ui-tabs-panel .info{position:absolute;top:180px;left:0;height:70px;background:url(images/transparent-bg.png)}
+#featured .info h2{font-size:18px;font-family:Georgia, serif;color:#fff;overflow:hidden;margin:0;padding:5px}
+#featured .info p{font-family:Verdana;font-size:11px;line-height:15px;color:#f0f0f0;margin:0 5px}
+#featured .info a{text-decoration:none;color:#fff}
+#featured .info a:hover{text-decoration:underline}
+#featured .ui-tabs-hide{display:none}
+.playerInfo{float:left;width:47%;height:90px;margin:0 11px 13px 0;}
+/*.playerInfo{float:left;width:190px;height:90px;margin:0 11px 13px 0;}*/
+.playerInfo img{float:left;width:80px;margin:0 8px 0 0;}
+.playerInfo h1{float:left;width:100px; color:#000;font-size:34px;margin-top:3px;height:28px;font-weight:normal;}
+/*.playerInfo h3{float:left;width:100px; color:#000;font-size:14px;font-weight:normal;}*/
+.playerInfo h3{float:left;width:64%; color:#000;font-size:14px;font-weight:normal;}
+/*.playerInfo h2{float:left;width:100px; color:#000;font-size:15px;font-weight:normal;margin-top:4px;}*/
+.playerInfo h2{float:left;width:64%; color:#000;font-size:15px;font-weight:normal;margin-top:4px; text-align:left}
+.profilesInfo{
+	margin:10px 0 0 0;
+	
+	     
+    height: 935px;
+    
+    overflow-y: scroll;
+    padding-right: 4px;
+    width: 100%;
+}
+.socialInfoContainer h3{display:none;}
+.blogContainer{float:left;height:1000px;overflow-y:scroll; padding-right:4px;}
+.cmsContainer .woocommerce{
+height:900px;overflow-y:scroll; padding-right:4px;float:left;
+width:100%;
+}
+.cmsContainer input[type="text"]{
+	border:solid #999999 1px;
+}
+.cmsContainer select{
+	border:solid #999999 1px;
+}
+.cmsContainer textarea{
+	border:solid #999999 1px;
+}
+.entry-header{
+ 	color: #30459E;
+    float: left;
+    font-size: 14px;
+    padding: 5px 0;
+    width: 100%;
+}
+.entry-header a{
+ 	text-decoration:none;
+}
+.entry-meta{float:left;width:100%;font-size:12px;}
+.entry-meta span{float:left;margin:0 10px 0 0;}
+
+.blogContainer .entry-content{
+float:left;
+border-bottom: #CCCCCC 2px solid;
+padding:0 0 10px 0;
+margin:0 0 13px 0;
+}
+.navigation h1{
+font-size:15px;
+}
+.nav-links{
+float:left;font-size:12px;
+width:100%;
+}
+ #comments{
+ 	display:none;
+ }
+ 
+ .woocommerce-breadcrumb{
+ 	float:left;
+	font-size:12px;
+ 	width:100%;
+ }
+ h1.page-title{
+    color: #30459E;
+    float: left;
+    font-size: 24px;
+    padding: 5px 0;
+    width: 100%;
+ 
+ }
+ .woocommerce-result-count{display:none;}
+ 
+ .products{
+ 	float:left;width:100%;
+list-style:none;
+ }
+  .products li{
+ 	float:left;width:150px;
+	border: solid #999999 1px;
+	padding:3px;
+	margin:5px 2px 18px 34px;
+ }
+ .products li .onsale{
+ display:none;
+ }
+  .products li h3{
+ float:left;
+ width:100%;
+ text-align:center;
+ text-decoration:none;
+ font-weight:normal;
+ }
+ .products li .price{
+ float:left;
+ width:100%;
+ text-align:center;
+ text-decoration:none;
+  color:#333333;
+  font-size:12px
+ }
+  .products li .button{
+  float:left;
+ 
+  background: #33479E;
+  border-radius:5px;
+  padding:4px 10px;
+  font-size:12px;
+  text-decoration:none;
+  color:#FFFFFF;
+  margin:4px 0 5px 34px;
+  }
+  
+   .products li .price del{
+   	color:#FF0000;
+	font-weight:bold;
+ 
+   }
+    .products li .price ins{
+   	color:#006600;
+	font-weight:bold;
+	text-decoration:none;
+   }
+  .product .onsale{
+  display:none;
+  }
+   .product .images{
+float:left;
+width:300px;
+margin:10px 0 0 0;
+height:300px;
+  }
+ .product .summary{
+float:left;
+width:300px;
+margin:10px 0 0 15px;
+  
+  }
+  .product  .price del{
+   	color:#FF0000;
+	font-weight:bold;
+ 
+   }
+    .product .price ins{
+   	color:#006600;
+	font-weight:bold;
+	text-decoration:none;
+   }
+   
+   .product h1{
+   	float:left;
+	font-weight:normal;
+	width:100%;
+	margin:0 0 10px 0;
+   }
+   .product .quantity{
+   float:left;width:100%;
+   margin:10px 0 0 0;
+   }
+   .product .quantity input[type="number"]{
+   	border:#666666 solid 1px;
+   }
+   
+    
+   .product .button{
+  float:left;
+ 
+  background: #33479E;
+  border-radius:5px;
+  padding:4px 10px;
+  font-size:12px;
+  text-decoration:none;
+  color:#FFFFFF;
+  margin:10px 0 0 0;
+  }
+  
+  .woocommerce-tabs{
+  	float:left;
+	width:100%;
+	margin:10px 0 0 0;
+  
+  }
+  
+  .woocommerce-tabs .tabs{
+  float:left;
+  width:100%; 
+  }
+  .woocommerce-tabs .description_tab{
+  float:left;
+  padding:6px 10px;list-style:none;
+  background:#000000;
+ 
+  
+  }
+  .woocommerce-tabs .description_tab a{
+   color: #fff;
+  text-decoration:none;
+  }
+  .woocommerce-tabs .entry-content{
+  	border:#999999 solid 1px;
+	float:left;
+	width:100%;
+	padding:10px;
+  }
+  
+  .socialInfoContainer kebo_twitter_feed_widget{
+  	float:left;
+	width:100%;
+	margin:10px 0 0 0;
+	 
+  }
+  .socialInfoContainer ul.kebo-tweets {
+  	height:120px;
+	float:left;
+	overflow-y:scroll;
+	margin:22px 0 0px;
+  }
+  
+  
+  .advps-slide-container img{
+  	width:644px !important;
+	height:300px !important;
+  }
+ 
+
+
+.posted_in { float:left; padding:12px 0 0 5px;}
+
+
+.aligncenter{text-align:center;width:100% !important;}  
+  
+  
+  
+  #wp_editor_widget-6{
+  	border: 3px red solid;
+  padding: 5px;
+  border-radius: 15px;
+  }
+  
+  #wp_editor_widget-9{
+  
+  float: left;
+  margin-right: 226px;
+  
+  
+  }
+  
+  #wp_editor_widget-8{
+  
+  float: left;
+  margin-right: 82px;
+  
+  
+  
+  }

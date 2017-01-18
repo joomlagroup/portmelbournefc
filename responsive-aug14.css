@@ -1,0 +1,2502 @@
+@media only screen and (max-width:0px) and (min-width: 1700px){
+
+
+body{
+	background-size: 130% 102% !important;
+	overflow-x: hidden;
+}
+
+.logo{
+	margin-top:5px !important;
+}
+
+.logo a img{
+	width: 158PX;
+}
+.customize-support{
+	background-size:100% 100%;
+}
+
+.headerContainer{
+	width:30% !important;
+}
+#menu-menu{
+	display:none;
+}
+.responsive-menu{
+	display:block;
+}
+
+.sliderInfoContainer{
+	width: 97% !important;
+	padding: 0px !important;
+	margin-left: 10px;
+}
+
+.middleContainer{
+	width: 100%;
+	float: none;
+	margin: 0px !important;	
+}
+
+embed{
+	width: 92%;
+	border: 10px solid #31459E;
+}
+
+ul.kebo-tweets.list.light{
+	margin-left:10px !important;
+}
+
+ul.video_list{
+	float: left;
+	padding-left: 10px;
+	width: 208px;
+}
+
+.advps-excerpt-one{
+	height: 35% !important;
+}
+
+.advps-slide-container {
+	width: 60.5% !important;
+	margin-left: 3px;
+}
+
+img.attachment-full.wp-post-image{
+	width: 44.6% !important;
+}
+
+.sliderContainer{
+	width:73%;
+}
+
+#advpsslideshow_109106{
+	width:132%;
+}
+
+.advps-overlay-one{
+	width: 44.6%;
+	height: 141%;
+	padding-top: 12px;
+	margin-top: -44px;
+}
+
+.advps-right-arrow{
+	right: -131% !important;
+}
+
+.advps-excerpt-block-one{
+	height: 130px;
+	margin-top: -45px;
+}
+
+#advpsslideshow_729902{
+	width:101% !important;
+}
+
+h2.advs-title{
+	width: 44%;
+	height: 118px;
+	line-height: 20px !important;
+	padding-left:6px;
+}
+
+.advps-excerpt-block-one P{
+	font-size: 14px;
+	width: 42.4%;
+	padding-left: 5px;
+	margin-top: -75px;
+}
+
+.postContainer{
+	width: 85% !important;
+	margin: 0px !Important;
+}
+
+.upcomingEvents h1{
+	width: 271px;
+	padding-left: 10px;
+}
+
+.postImg{
+	width: 75px !important;
+}
+
+.postTxt{
+	float: right !important;
+	width: 190px !important;
+	padding-right: 10px !important;
+	padding-bottom: 5px !Important;
+}
+
+.upcomingContainer{
+	padding:5px !important;
+}
+
+.socialInfoContainer{
+	float:none !important;
+}
+
+.fb-like-box.fb_iframe_widget{
+	margin-left: 12px;
+}
+
+.sponsorContainer{
+	width: 252px;
+	margin-left: 36px;
+}
+
+.sponsorContainer span{
+	float:none;
+}
+
+.sponsorContainer span:nth-child(3){
+	margin-left: 15px !important;	
+}
+
+.sponsorContainer span:nth-child(4){
+	margin-left: 53px !important;	
+}
+
+.jcarousel-skin-tango{
+	width: 93%;
+	margin-left: -44px;	
+}
+
+.jcarousel-container.jcarousel-container-horizontal{
+	width: 52% !important;
+	margin: 0px 0px 0px 35px !important;	
+}
+
+.shopPortContainer h1{
+	width:100%;
+	float: left;	
+}
+#simplesubscribe-2 .widgetGuts {
+	margin-left: 4px !important;
+}
+
+#simplesubscribe-2 #frm-email {
+	width: 163px !important;
+}
+
+.middleRight{
+	float: left !important;
+	width: 35.5% !important;
+}
+
+.plugin.webkit.chrome.win.Locale_en_US{
+	float:left;
+	background-color:#ffffff;
+}
+
+#simplesubscribe-2.widget.widget_simplesubscribe{
+	width: 252px !important;
+	margin-left: 26PX;
+	margin: 11px 0px 0px 24px;
+}
+
+.showYourSupport a img{
+	width: 250px;
+	margin-left: 25px;
+	height: 75px;
+}
+
+.upcomingContainer{
+	width: 230px !important;
+	float: left !important;
+	margin-left: 22px;
+}
+
+.shopPortContainer{
+	margin-top: -34% !important;
+}
+
+.footerContainer {
+	width: 73% !important;
+	position: relative;
+	top: 51px;
+	left: 11px;
+}
+
+.footerMenu{
+	margin: 0px 0px 0px 35px !important;
+	width: 96%;
+	line-height: 20px;
+}
+
+.footerMenu ul li{
+	line-height: 13px !important;
+	padding-top: 0px;
+	font-size: 12px;
+} 
+
+.footerContact{
+	margin: 0px 0px 0px 35px;
+	width: 96% !important;
+	text-align: justify !important;
+}
+.footerContact p{
+	line-height: 15px !important;
+	padding-top: 0px;
+	font-size: 12px;
+}
+
+.footerSocial{
+	margin: 7px 0px 0px 35px;
+	width: 96% !important;
+	text-align: justify !important;
+}
+
+
+
+
+
+/*###########################*/
+
+.middleLeft{
+	width: 91% !important;
+	margin-top: 35px !important;
+}
+
+.entry-content{
+	width: 96%;
+	height: auto;
+	overflow: hidden;
+}
+
+#container{
+	width: 98%;
+	margin-left: 10px;
+}
+
+img.attachment-.wp-post-image{
+	width: 248px !important;
+}
+
+
+
+}
+
+
+
+
+@media only screen and (max-width:320px) and (min-width: 310px){
+
+
+body{
+	background-size: 130% 102% !important;
+	overflow-x: hidden;
+}
+
+[id*="advpsslideshow_"]{
+	width:278px !important;
+}
+
+.logo{
+	margin-top:5px !important;
+}
+
+.logo a img{
+	width: 158PX;
+}
+.customize-support{
+	background-size:100% 100%;
+}
+
+.headerContainer{
+	width:30% !important;
+}
+#menu-menu{
+	display:none;
+}
+.responsive-menu{
+	display:block;
+}
+
+.sliderInfoContainer{
+	width: 97% !important;
+	padding: 0px !important;
+	margin-left: 10px;
+}
+
+.middleContainer{
+	width: 100%;
+	float: none;
+	margin: 0px !important;	
+}
+
+embed{
+	width: 92%;
+	border: 10px solid #31459E;
+}
+
+ul.kebo-tweets.list.light{
+	margin-left:10px !important;
+}
+
+ul.video_list{
+	float: left;
+	padding-left: 10px;
+	width: 208px;
+}
+
+.advps-excerpt-one{
+	height: 35% !important;
+}
+
+.advps-slide-container {
+	width: 60.5% !important;
+	margin-left: 3px;
+}
+
+img.attachment-full.wp-post-image{
+	width: 44.6% !important;
+}
+
+.sliderContainer{
+	width:73%;
+}
+
+#advpsslideshow_109106{
+	width:132%;
+}
+
+.advps-overlay-one{
+	width: 44.6%;
+	height: 141%;
+	padding-top: 12px;
+	margin-top: -44px;
+}
+
+.advps-right-arrow{
+	right: -131% !important;
+}
+
+.advps-excerpt-block-one{
+	height: 130px;
+	margin-top: -45px;
+}
+
+#advpsslideshow_729902{
+	width:101% !important;
+}
+
+h2.advs-title{
+	width: 44%;
+	height: 118px;
+	line-height: 20px !important;
+	padding-left:6px;
+}
+
+.advps-excerpt-block-one P{
+	font-size: 14px;
+	width: 42.4%;
+	padding-left: 5px;
+	margin-top: -75px;
+}
+
+.postContainer{
+	width: 85% !important;
+	margin: 0px !Important;
+}
+
+.upcomingEvents h1{
+	width: 271px;
+	padding-left: 10px;
+}
+
+.postImg{
+	width: 75px !important;
+}
+
+.postTxt{
+	float: right !important;
+	width: 190px !important;
+	padding-right: 10px !important;
+	padding-bottom: 5px !Important;
+}
+
+.upcomingContainer{
+	padding:5px !important;
+}
+
+.socialInfoContainer{
+	float:none !important;
+}
+
+.fb-like-box.fb_iframe_widget{
+	margin-left: 12px;
+}
+
+.sponsorContainer{
+	width: 252px;
+	margin-left: 36px;
+}
+
+.sponsorContainer span{
+	float:none;
+}
+
+.sponsorContainer span:nth-child(3){
+	margin-left: 15px !important;	
+}
+
+.sponsorContainer span:nth-child(4){
+	margin-left: 53px !important;	
+}
+
+.jcarousel-skin-tango{
+	width: 93%;
+	margin-left: -44px;	
+}
+
+.jcarousel-container.jcarousel-container-horizontal{
+	width: 52% !important;
+	margin: 0px 0px 0px 35px !important;	
+}
+
+.shopPortContainer h1{
+	width:100%;
+	float: left;	
+}
+#simplesubscribe-2 .widgetGuts {
+	margin-left: 4px !important;
+}
+
+#simplesubscribe-2 #frm-email {
+	width: 163px !important;
+}
+
+.middleRight{
+	float: left !important;
+	width: 35.5% !important;
+}
+
+.plugin.webkit.chrome.win.Locale_en_US{
+	float:left;
+	background-color:#ffffff;
+}
+
+#simplesubscribe-2.widget.widget_simplesubscribe{
+	width: 252px !important;
+	margin-left: 26PX;
+	margin: 11px 0px 0px 24px;
+}
+
+.showYourSupport a img{
+	width: 250px;
+	margin-left: 25px;
+	height: 75px;
+}
+
+.upcomingContainer{
+	width: 230px !important;
+	float: left !important;
+	margin-left: 22px;
+}
+
+.shopPortContainer{
+	margin-top: -34% !important;
+}
+
+.footerContainer {
+	width: 73% !important;
+	position: relative;
+	top: 51px;
+	left: 11px;
+}
+
+.footerMenu{
+	margin: 0px 0px 0px 35px !important;
+	width: 96%;
+	line-height: 20px;
+}
+
+.footerMenu ul li{
+	line-height: 13px !important;
+	padding-top: 0px;
+	font-size: 12px;
+} 
+
+.footerContact{
+	margin: 0px 0px 0px 35px;
+	width: 96% !important;
+	text-align: justify !important;
+}
+.footerContact p{
+	line-height: 15px !important;
+	padding-top: 0px;
+	font-size: 12px;
+}
+
+.footerSocial{
+	margin: 7px 0px 0px 35px;
+	width: 96% !important;
+	text-align: justify !important;
+}
+
+
+
+
+
+/*###########################*/
+
+.middleLeft{
+	width: 91% !important;
+	margin-top: 35px !important;
+}
+
+.entry-content{
+	width: 96%;
+	height: auto;
+	overflow: hidden;
+}
+
+#container{
+	width: 98%;
+	margin-left: 10px;
+}
+
+img.attachment-.wp-post-image{
+	width: 248px !important;
+}
+
+
+
+}
+
+
+
+@media only screen and (max-width:480px) and (min-width: 470px){
+
+body{
+	background-size: 130% 102% !important;
+	overflow-x: hidden;
+}
+
+.logo{
+	margin-top:5px !important;
+}
+
+#menu-menu{
+	display:none;
+}
+.responsive-menu{
+	display:block;
+}
+
+[id*="advpsslideshow_"]{
+	width:410px !important;
+}
+
+
+.logo a img{
+	width: 265PX;
+	margin-top: 70px;
+}
+.customize-support{
+	background-size:100% 100%;
+}
+
+.headerContainer{
+	width:30% !important;
+}
+
+.sliderInfoContainer{
+	width: 65% !important;
+	padding: 0px !important;
+	margin-left: 18px;
+}
+
+.middleContainer{
+	width: 100%;
+	float: none;
+	margin: 0px !important;	
+}
+
+embed{
+	width: 92%;
+	border: 10px solid #31459E;
+}
+
+.video_emb {
+	width: 420px;
+}
+
+ul.kebo-tweets.list.light{
+	margin-left: 22px !important;
+	width: 400px;
+	height: 104px;
+}
+
+ul.video_list{
+	float: left !important;
+	padding-left: 10px;
+	width: 397px !important;
+	margin-top: -4px;
+	background-color: #30459E;
+}
+
+.video_list li a{
+	width: 350px !important;
+}
+
+.video_list li h3{
+	width: 280px !important;
+}
+
+.video_list li p{
+	width: 278px !important;
+}
+
+.upcomingEvents{
+	margin-left:20px;
+}
+
+.advps-excerpt-one{
+	height: 35% !important;
+}
+
+.advps-slide-container {
+	width: 60.5% !important;
+	margin-left: 17px;
+}
+
+img.attachment-full.wp-post-image{
+	width: 65.6% !important;
+}
+
+.sliderContainer{
+	width:73%;
+}
+
+#advpsslideshow_109106{
+	width:132%;
+}
+
+.advps-overlay-one{
+	width: 65.6%;
+	height: 141%;
+	padding-top: 12px;
+	margin-top: -44px;
+}
+
+.advps-right-arrow{
+	left: 294% !important;
+}
+
+.advps-excerpt-block-one{
+	height: 130px;
+	margin-top: -45px;
+}
+
+#advpsslideshow_729902{
+	width:101% !important;
+}
+
+h2.advs-title{
+	width: 64%;
+	height: 118px;
+	line-height: 20px !important;
+	padding-left:6px;
+}
+
+.advps-excerpt-block-one P{
+	font-size: 14px;
+	width: 62.4%;
+	padding-left: 5px;
+	margin-top: -75px;
+}
+
+.postContainer{
+	width: 100% !important;
+	margin: 0px !Important;
+}
+
+.upcomingEvents h1{
+	width: 271px;
+	padding-left: 10px;
+}
+
+.postImg{
+	width: 75px !important;
+}
+
+.postTxt{
+	float: right !important;
+	width: 190px !important;
+	padding-right: 10px !important;
+	padding-bottom: 5px !Important;
+}
+
+.socialInfoContainer{
+	float:none !important;
+}
+
+.fb-like-box.fb_iframe_widget{
+	margin-left: 12px;
+}
+
+.sponsorContainer{
+	width: 362px;
+	margin-left: 88px;
+}
+
+.sponsorContainer span{
+	float:none;
+}
+
+.sponsorContainer span:nth-child(3){
+	margin-left: 15px !important;	
+}
+
+.sponsorContainer span:nth-child(4){
+	margin-left: 53px !important;	
+}
+
+.jcarousel-skin-tango{
+	width: 93%;
+	margin-left: -44px;	
+}
+
+.jcarousel-container.jcarousel-container-horizontal{
+	width: 52% !important;
+	margin: 0px 0px 0px 35px !important;	
+}
+
+.shopPortContainer h1{
+	width: 360PX;
+	float: left;
+	text-align: left;
+}
+#simplesubscribe-2 .widgetGuts {
+	margin-left: 4px !important;
+}
+
+#simplesubscribe-2 #frm-email {
+	width: 216px !important;
+}
+
+.middleRight{
+	float: left !important;
+	width: 35.5% !important;
+}
+
+.plugin.webkit.chrome.win.Locale_en_US{
+	float:left;
+	background-color:#ffffff;
+}
+
+#simplesubscribe-2.widget.widget_simplesubscribe{
+	width: 304px !important;
+	margin: 10px 0px 0px 73px;
+}
+
+.showYourSupport a img{
+	margin-left: 74px;
+}
+
+.upcomingContainer{
+	width: 230px !important;
+	float: left !important;
+	margin-left: 31px;
+	margin-top: 15px;
+	padding: 10px 78px !important;
+}
+
+.shopPortContainer{
+	margin-top: -34% !important;
+	width: 295PX;
+	margin-left: 60PX !IMPORTANT;
+}
+
+.footerContainer {
+	width: 73% !important;
+	position: relative;
+	top: 51px;
+	left: 11px;
+}
+
+.footerMenu{
+	margin: 0px 0px 0px 35px !important;
+	width: 96%;
+	line-height: 20px;
+}
+
+.footerMenu ul li{
+	line-height: 13px !important;
+	padding-top: 0px;
+	font-size: 12px;
+} 
+
+.footerContact{
+	margin: 0px 0px 0px 35px;
+	width: 96% !important;
+	text-align: justify !important;
+}
+.footerContact p{
+	line-height: 15px !important;
+	padding-top: 0px;
+	font-size: 12px;
+}
+
+.footerSocial{
+	margin: 7px 0px 0px 35px;
+	width: 96% !important;
+	text-align: justify !important;
+}
+
+.fbLikeContainer{
+	margin: 14px 0px 0px 77px !important;
+}
+
+
+/*###########################*/
+
+.middleLeft{
+	width: 91% !important;
+	margin-top: 35px !important;
+}
+
+.entry-content{
+	width: 96%;
+	height: auto;
+	overflow: hidden;
+}
+
+#container{
+	width: 98%;
+	margin-left: 10px;
+}
+
+img.attachment-.wp-post-image{
+	width: 248px !important;
+}
+
+}
+
+@media only screen and (max-width:568px) and (min-width: 558px){
+
+body{
+	background-size: 100% 102% !important;
+	overflow-x: hidden;
+}
+
+.logo{
+	margin-top:5px !important;
+}
+
+[id*="advpsslideshow_"]{
+	width:410px !important;
+}
+
+.logo a img{
+	width: 265PX;
+	margin-top: 70px;
+}
+.customize-support{
+	background-size:100% 100%;
+}
+
+.headerContainer{
+	width:30% !important;
+}
+
+.menu-menu-container{
+	display:none;
+}
+
+#menu-menu{
+	display:none;
+}
+.responsive-menu{
+	display:block;
+}
+
+
+.sliderInfoContainer{
+	width: 65% !important;
+	padding: 0px !important;
+	margin-left: 84px;
+}
+
+.middleContainer{
+	width: 100%;
+	float: none;
+	margin: 0px !important;	
+}
+
+embed{
+	width: 92%;
+	border: 10px solid #31459E;
+}
+
+.video_emb {
+	width: 374px;
+}
+
+ul.kebo-tweets.list.light{
+	margin-left: 92px !important;
+	width: 350px;
+	height: 104px;
+}
+
+ul.video_list{
+	float: left !important;
+	padding-left: 10px;
+	width: 355px !important;
+	margin-top: -4px;
+	background-color: #30459E;
+}
+
+.video_list li a{
+	width: 350px !important;
+}
+
+.video_list li h3{
+	width: 280px !important;
+}
+
+.video_list li p{
+	width: 278px !important;
+}
+
+.upcomingEvents{
+	margin-left: 90px;
+}
+
+.advps-excerpt-one{
+	height: 35% !important;
+}
+
+.advps-slide-container {
+	width: 62.5% !important;
+	margin-left: 83px;
+}
+
+img.attachment-full.wp-post-image{
+	width: 58.6% !important;
+}
+
+.sliderContainer{
+	width:73%;
+}
+
+#advpsslideshow_109106{
+	width:132%;
+}
+
+.advps-overlay-one{
+	width: 58.6%;
+	height: 100%;
+	padding-top: 12px;
+	margin-top: -13px;
+}
+
+.advps-right-arrow{
+	right: -45% !important;
+}
+
+.advps-excerpt-block-one{
+	height: 130px;
+	margin-top: -45px;
+}
+
+#advpsslideshow_729902{
+	width:101% !important;
+}
+
+h2.advs-title{
+	width: 58%;
+	height: 118px;
+	line-height: 74px !important;
+	padding-left: 6px;
+}
+
+.advps-excerpt-block-one P{
+	font-size: 14px;
+	width: 58.4%;
+	padding-left: 5px;
+	margin-top: -70px;
+}
+
+.postContainer{
+	width: 100% !important;
+	margin: 0px !Important;
+}
+
+.upcomingEvents h1{
+	width: 271px;
+	padding-left: 10px;
+}
+
+.postImg{
+	width: 75px !important;
+}
+
+.postTxt{
+	float: right !important;
+	width: 190px !important;
+	padding-right: 10px !important;
+	padding-bottom: 5px !Important;
+}
+
+.socialInfoContainer{
+	float:none !important;
+}
+
+.fb-like-box.fb_iframe_widget{
+	margin-left: 12px;
+}
+
+.sponsorContainer{
+	width: 362px;
+	margin-left: 88px;
+}
+
+.sponsorContainer span{
+	float:none;
+}
+
+.sponsorContainer span:nth-child(3){
+	margin-left: 15px !important;	
+}
+
+.sponsorContainer span:nth-child(4){
+	margin-left: 53px !important;	
+}
+
+.jcarousel-skin-tango{
+	width: 93%;
+	margin-left: -44px;	
+}
+
+.jcarousel-container.jcarousel-container-horizontal{
+	width: 52% !important;
+	margin: 0px 0px 0px 35px !important;	
+}
+
+.shopPortContainer h1{
+	width: 66%;
+	float: left;
+	padding-left: 20px;	
+}
+#simplesubscribe-2 .widgetGuts {
+	margin-left: 4px !important;
+}
+
+#simplesubscribe-2 #frm-email {
+	width: 216px !important;
+}
+
+.middleRight{
+	float: left !important;
+	width: 35.5% !important;
+	margin-left: 52px;
+}
+
+.plugin.webkit.chrome.win.Locale_en_US{
+	float:left;
+	background-color:#ffffff;
+}
+
+#simplesubscribe-2.widget.widget_simplesubscribe{
+	width: 304px !important;
+	margin: 10px 0px 0px 69%;
+}
+
+.showYourSupport a img{
+	margin-left: 74px;
+}
+
+.upcomingContainer{
+	width: 230px !important;
+	float: left !important;
+	margin-left: 43px;
+	margin-top: 15px;
+	padding: 10px 60px !important;
+}
+
+.shopPortContainer{
+	margin-top: -28% !important;
+	width: 299PX;
+	margin-left: 121px !important;
+}
+
+.footerContainer {
+	width: 103% !important;
+	position: relative;
+	top: 37px;
+	left: 61px;
+}
+
+.footerMenu{
+	margin: 0px 0px 0px 35px !important;
+	width: 96%;
+	line-height: 20px;
+}
+
+.footerMenu ul li{
+	line-height: 13px !important;
+	padding-top: 0px;
+	font-size: 12px;
+} 
+
+.footerContact{
+	margin: 0px 0px 0px 35px;
+	width: 96% !important;
+	text-align: justify !important;
+}
+.footerContact p{
+	line-height: 15px !important;
+	padding-top: 0px;
+	font-size: 12px;
+}
+
+.footerSocial{
+	margin: 7px 0px 0px 35px;
+	width: 96% !important;
+	text-align: justify !important;
+}
+
+.fbLikeContainer{
+	margin: 14px 0px 0px 45% !important;
+}
+
+
+/*###########################*/
+
+.middleLeft{
+	width: 91% !important;
+	margin-top: 35px !important;
+}
+
+.entry-content{
+	width: 96%;
+	height: auto;
+	overflow: hidden;
+}
+
+#container{
+	width: 98%;
+	margin-left: 10px;
+}
+
+img.attachment-.wp-post-image{
+	width: 248px !important;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width:240px) and (min-width: 230px){
+
+
+body{
+	background-size: 130% 102% !important;
+	overflow-x: hidden;
+}
+
+.logo{
+	margin-top:5px !important;
+}
+
+
+.logo a img{
+	width: 198PX;
+	margin-top: 70px;
+}
+.customize-support{
+	background-size:100% 100%;
+}
+
+.headerContainer{
+	width: 22% !important;
+}
+
+.menu-menu-container{
+	display:none;
+}
+
+.sliderInfoContainer{
+	width: 42% !important;
+	padding: 0px !important;
+	margin-left: 11px;
+}
+
+#menu-menu{
+	display:none;
+}
+.responsive-menu{
+	display:block;
+}
+
+
+.middleContainer{
+	width: 100%;
+	float: none;
+	margin: 0px !important;	
+}
+
+embed{
+	width: 92%;
+	border: 10px solid #31459E;
+}
+
+ul.kebo-tweets.list.light{
+	width: 198px;
+	margin:20px 0px 0px 4px !important;
+}
+
+ul.video_list{
+	float: left;
+	padding-left: 10px;
+	margin-top: -4px;
+	width: 185px;
+	background-color: #31459E;
+}
+
+.advps-excerpt-one{
+	height: 35% !important;
+}
+
+.advps-slide-container {
+	width: 60.5% !important;
+	margin-left: 10px;	
+	margin-top: 13px;
+}
+
+img.attachment-full.wp-post-image{
+	width: 31.8% !important;
+}
+
+.sliderContainer{
+	width:73%;
+}
+
+#advpsslideshow_109106{
+	width:132%;
+}
+
+.advps-overlay-one{
+	width: 31.8%;
+	height: 150%;
+	padding-top: 12px;
+	margin-top: -66px;
+}
+
+.advps-right-arrow{
+	left: 156% !important;
+}
+
+#advpsslideshow_103679{
+	width:200px !important;
+}
+
+.advps-excerpt-block-one{
+	height: 160px;
+	margin-top: -77px;
+}
+
+.video_emb{
+	width:190px !important;
+}
+
+#advpsslideshow_729902{
+	width:101% !important;
+}
+
+h2.advs-title{
+	width: 30.8%;
+	height: 118px;
+	line-height: 18px !important;
+}
+
+.advps-excerpt-block-one P{
+	font-size: 14px;
+	width: 29.4%;
+	margin-top: -90px;
+}
+
+.upcomingEvents{
+	width: 201px;
+	margin: 0px 0px 0px 10px !important;
+}
+
+.postContainer{
+	width: 187px !important;
+	float: left !important;
+	margin-left: 14px !important;
+}
+
+.upcomingEvents h1{
+	width: 192px;
+	padding-left: 8px;
+	font-size: 19px;
+}
+
+.postImg{
+	width: 75px !important;
+}
+
+.postTxt{
+	float: right !important;
+	width: 190px !important;
+	padding-right: 10px !important;
+	padding-bottom: 5px !Important;
+}
+
+.upcomingContainer{
+	padding:0px !important;
+}
+
+.socialInfoContainer{
+	float:none !important;
+}
+
+.fb-like-box.fb_iframe_widget{
+	margin-left: 4px;
+}
+
+.fb_iframe_widget_lift {
+	width: 197px !important;
+	margin-top: 10px;
+}
+
+.fb_iframe_widget iframe {
+	width: 196px !important;
+}
+
+.sponsorContainer{
+	width: 201px;
+	margin-left: 9px;
+}
+
+.sponsorContainer span{
+	float:none;
+}
+
+.sponsorContainer span:nth-child(3){
+	margin-left: 15px !important;	
+}
+
+.sponsorContainer span:nth-child(4){
+	margin-left: 53px !important;	
+}
+
+.jcarousel-skin-tango{
+	width: 93%;
+	margin-left: -44px;	
+}
+
+.jcarousel-skin-tango .jcarousel-item-horizontal {
+	margin: 0px 16px !important;
+}
+
+.jcarousel-container.jcarousel-container-horizontal{
+	width: 44% !important;
+	margin: 0px 0px 0px 35px !important;	
+}
+
+.shopPortContainer h1{
+	width:100%;
+	float: left;	
+}
+#simplesubscribe-2 .widgetGuts {
+	margin-left: 4px !important;
+}
+
+#simplesubscribe-2 #frm-email {
+	width: 163px !important;
+}
+
+.middleRight{
+	float: left !important;
+	width: 35.5% !important;
+}
+
+.plugin.webkit.chrome.win.Locale_en_US{
+	float:left;
+	background-color:#ffffff;
+}
+
+#simplesubscribe-2.widget.widget_simplesubscribe{
+	width: 198px !important;
+	margin-left: 29PX;
+	margin: 11px 0px 0px 11px;
+}
+
+.showYourSupport a img{
+	width: 196px;
+	margin-left: 12px;
+	height: 75px;
+}
+
+span a img{
+	width: 90px;
+	height: 110px;
+}
+
+.upcomingContainer{
+	width: 187px !important;
+	float: left !important;
+	margin-left: 13px;
+}
+
+.shopPortContainer{
+	margin-top: -30% !important;
+	margin-left: -28px !important;
+}
+
+.footerContainer {
+	width: 73% !important;
+	position: relative;
+	top: 51px;
+	left: 11px;
+}
+
+.footerMenu{
+	margin: 0px 0px 0px 35px !important;
+	width: 96%;
+	line-height: 20px;
+}
+
+.footerMenu ul li{
+	line-height: 13px !important;
+	padding-top: 0px;
+	font-size: 12px;
+} 
+
+.footerContact{
+	margin: 0px 0px 0px 35px;
+	width: 96% !important;
+	text-align: justify !important;
+}
+.footerContact p{
+	line-height: 15px !important;
+	padding-top: 0px;
+	font-size: 12px;
+}
+
+.footerSocial{
+	margin: 7px 0px 0px 35px;
+	width: 96% !important;
+	text-align: justify !important;
+}
+
+
+
+
+
+/*###########################*/
+
+.middleLeft{
+	width: 69% !important;
+	margin-top: 35px !important;
+	margin-left:2px !important;
+}
+
+.entry-content{
+	width: 96%;
+	height: auto;
+	overflow: hidden;
+}
+
+#container{
+	width: 98%;
+	margin-top: 70px;
+	margin-left: 10px;
+}
+
+img.attachment-.wp-post-image{
+	width: 248px !important;
+}
+
+.summary.entry-summary{
+	width: 196px;
+	margin-left: 3px;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:384px) and (min-width: 374px){
+
+body{
+	background-size: 130% 102% !important;
+	overflow-x: hidden;
+}
+
+.logo{
+	margin-top:5px !important;
+}
+
+[id*="advpsslideshow_"]{
+	width:330px !important;
+}
+
+.logo a img{
+	width: 265PX;
+	margin-top: 70px;
+}
+.customize-support{
+	background-size:100% 100%;
+}
+
+.headerContainer{
+	width:30% !important;
+}
+
+#menu-menu{
+	display:none;
+}
+.responsive-menu{
+	display:block;
+}
+
+
+.sliderInfoContainer{
+	width: 65% !important;
+	padding: 0px !important;
+	margin-left: 18px;
+}
+
+.middleContainer{
+	width: 100%;
+	float: none;
+	margin: 0px !important;	
+}
+
+embed{
+	width: 92%;
+	border: 10px solid #31459E;
+}
+
+.video_emb {
+	width: 317px;
+}
+
+ul.kebo-tweets.list.light{
+	margin-left: 22px !important;
+	width: 300px;
+	height: 104px;
+}
+
+ul.video_list{
+	float: left !important;
+	padding-left: 10px;
+	width: 302px !important;
+	margin-top: -4px;
+	background-color: #30459E;
+}
+
+.video_list li a{
+	width: 350px !important;
+}
+
+.video_list li h3{
+	width: 280px !important;
+}
+
+.video_list li p{
+	width: 278px !important;
+}
+
+.upcomingEvents{
+	margin-left:20px;
+	width: 290px !important;
+}
+
+.advps-excerpt-one{
+	height: 35% !important;
+}
+
+.advps-slide-container {
+	width: 60.5% !important;
+	margin-left: 17px;
+}
+
+img.attachment-full.wp-post-image{
+	width: 50.6% !important;
+}
+
+.sliderContainer{
+	width:73%;
+}
+
+#advpsslideshow_109106{
+	width:132%;
+}
+
+.advps-overlay-one{
+	width: 50.6%;
+	height: 141%;
+	padding-top: 12px;
+	margin-top: -44px;
+}
+
+.advps-right-arrow{
+	left: 260px !important;
+}
+
+.advps-excerpt-block-one{
+	height: 130px;
+	margin-top: -45px;
+}
+
+#advpsslideshow_729902{
+	width:101% !important;
+}
+
+h2.advs-title{
+	width: 48%;
+	height: 118px;
+	line-height: 20px !important;
+	padding-left:6px;
+}
+
+.advps-excerpt-block-one P{
+	font-size: 14px;
+	width: 48.4%;
+	padding-left: 5px;
+	margin-top: -90px;
+}
+
+.postContainer{
+	width: 100% !important;
+	margin: 0px !Important;
+}
+
+.upcomingEvents h1{
+	width: 271px;
+	padding-left: 10px;
+}
+
+.postImg{
+	width: 75px !important;
+}
+
+.postTxt{
+	float: right !important;
+	width: 190px !important;
+	padding-right: 10px !important;
+	padding-bottom: 5px !Important;
+}
+
+.socialInfoContainer{
+	float:none !important;
+}
+
+.fb-like-box.fb_iframe_widget{
+	margin-left: 12px;
+}
+
+.sponsorContainer{
+	width: 362px;
+	margin-left: 50px;
+}
+
+.sponsorContainer span{
+	float:none;
+}
+
+.sponsorContainer span:nth-child(3){
+	margin-left: 15px !important;	
+}
+
+.sponsorContainer span:nth-child(4){
+	margin-left: 53px !important;	
+}
+
+.jcarousel-skin-tango{
+	width: 93%;
+	margin-left: -44px;	
+}
+
+.jcarousel-container.jcarousel-container-horizontal{
+	width: 26% !important;
+	margin: 0px 0px 0px 35px !important;	
+}
+
+.jcarousel-container.jcarousel-container-horizontal{
+	width: 146px !important;
+}
+
+.shopPortContainer h1{
+	width: 60%;
+	float: left;	
+}
+#simplesubscribe-2 .widgetGuts {
+	margin-left: 4px !important;
+}
+
+#simplesubscribe-2 #frm-email {
+	width: 216px !important;
+}
+
+.middleRight{
+	float: left !important;
+	width: 35.5% !important;
+}
+
+.plugin.webkit.chrome.win.Locale_en_US{
+	float:left;
+	background-color:#ffffff;
+}
+
+#simplesubscribe-2.widget.widget_simplesubscribe{
+	width: 304px !important;
+	margin: 10px 0px 0px 30px;
+}
+
+.showYourSupport a img{
+	margin-left: 30px;
+}
+
+.upcomingContainer{
+	width: 230px !important;
+	float: left !important;
+	margin-left: 31px;
+	margin-top: 15px;
+	padding: 10px 30px !important;
+}
+
+.shopPortContainer{
+	margin-top: -34% !important;
+	width: 353PX;
+	margin-left: 12PX !IMPORTANT;
+}
+
+.footerContainer {
+	width: 73% !important;
+	position: relative;
+	top: 51px;
+	left: 11px;
+}
+
+.footerMenu{
+	margin: 0px 0px 0px 35px !important;
+	width: 96%;
+	line-height: 20px;
+}
+
+.footerMenu ul li{
+	line-height: 13px !important;
+	padding-top: 0px;
+	font-size: 12px;
+} 
+
+.footerContact{
+	margin: 0px 0px 0px 35px;
+	width: 96% !important;
+	text-align: justify !important;
+}
+.footerContact p{
+	line-height: 15px !important;
+	padding-top: 0px;
+	font-size: 12px;
+}
+
+.footerSocial{
+	margin: 7px 0px 0px 35px;
+	width: 96% !important;
+	text-align: justify !important;
+}
+
+.fbLikeContainer{
+	margin: 14px 0px 0px 28px !important;
+}
+
+
+/*###########################*/
+
+.middleLeft{
+	width: 91% !important;
+	margin-top: 35px !important;
+}
+
+.entry-content{
+	width: 96%;
+	height: auto;
+	overflow: hidden;
+}
+
+#container{
+	width: 98%;
+	margin-left: 10px;
+}
+
+img.attachment-.wp-post-image{
+	width: 248px !important;
+}
+
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width : 600px) and (min-width: 590px){
+
+body{
+	background-size: 100% 102% !important;
+	overflow-x: hidden;
+}
+
+.logo{
+	margin-top:5px !important;
+}
+
+[id*="advpsslideshow_"]{
+	width:370px !important;
+}
+
+.logo a img{
+	width: 270PX;
+	margin-top: 50px;
+	height: 202px;
+}
+.customize-support{
+	background-size:100% 100%;
+}
+
+.headerContainer{
+	width:30% !important;
+}
+
+.sliderInfoContainer{
+	width: 65% !important;
+	padding: 0px !important;
+	margin-left: 100px;
+}
+
+.middleContainer{
+	width: 100%;
+	float: none;
+	margin: 0px !important;	
+}
+
+#menu-menu{
+	display:none;
+}
+.responsive-menu{
+	display:block;
+}
+
+
+embed{
+	width: 92%;
+	border: 10px solid #31459E;
+}
+
+.video_emb {
+	width: 374px;
+}
+
+ul.kebo-tweets.list.light{
+	margin-left: 92px !important;
+	width: 350px;
+	height: 104px;
+}
+
+ul.video_list{
+	float: left !important;
+	padding-left: 10px;
+	width: 355px !important;
+	margin-top: -4px;
+	background-color: #30459E;
+}
+
+.video_list li a{
+	width: 350px !important;
+}
+
+.video_list li h3{
+	width: 280px !important;
+}
+
+.video_list li p{
+	width: 278px !important;
+}
+
+.upcomingEvents{
+	margin-left: 90px;
+}
+
+.advps-excerpt-one{
+	height: 35% !important;
+}
+
+.advps-slide-container {
+	width: 62.5% !important;
+	margin-left: 100px;
+}
+
+img.attachment-full.wp-post-image{
+	width: 58.6% !important;
+}
+
+.sliderContainer{
+	width:73%;
+}
+
+#advpsslideshow_109106{
+	width:132%;
+}
+
+.advps-overlay-one{
+	width: 58.6%;
+	height: 100%;
+	padding-top: 12px;
+	margin-top: -13px;
+}
+
+.advps-right-arrow{
+	left: 311px !important;
+}
+
+.advps-excerpt-block-one{
+	height: 130px;
+	margin-top: -45px;
+}
+
+#advpsslideshow_729902{
+	width:101% !important;
+}
+
+h2.advs-title{
+	width: 58%;
+	height: 118px;
+	line-height: 74px !important;
+	padding-left: 6px;
+}
+
+.advps-excerpt-block-one P{
+	font-size: 14px;
+	width: 58.4%;
+	padding-left: 5px;
+	margin-top: -70px;
+}
+
+.postContainer{
+	width: 100% !important;
+	margin: 0px !Important;
+}
+
+.upcomingEvents h1{
+	width: 271px;
+	padding-left: 10px;
+}
+
+.postImg{
+	width: 75px !important;
+}
+
+.postTxt{
+	float: right !important;
+	width: 190px !important;
+	padding-right: 10px !important;
+	padding-bottom: 5px !Important;
+}
+
+.socialInfoContainer{
+	float:none !important;
+}
+
+.fb-like-box.fb_iframe_widget{
+	margin-left: 12px;
+}
+
+.sponsorContainer{
+	width: 362px;
+	margin-left: 88px;
+}
+
+.sponsorContainer span{
+	float:none;
+}
+
+.sponsorContainer span:nth-child(3){
+	margin-left: 15px !important;	
+}
+
+.sponsorContainer span:nth-child(4){
+	margin-left: 53px !important;	
+}
+
+.jcarousel-skin-tango{
+	width: 93%;
+	margin-left: -44px;	
+}
+
+.jcarousel-container.jcarousel-container-horizontal{
+	width: 52% !important;
+	margin: 0px 0px 0px 35px !important;	
+}
+
+.jcarousel-container.jcarousel-container-horizontal{
+	width: 290px !important;
+}
+
+.shopPortContainer h1{
+	width: 36%;
+	float: left;
+	padding-left: 50px;
+}
+#simplesubscribe-2 .widgetGuts {
+	margin-left: 4px !important;
+}
+
+#simplesubscribe-2 #frm-email {
+	width: 216px !important;
+}
+
+.middleRight{
+	float: left !important;
+	width: 35.5% !important;
+	margin-left: 72px;
+}
+
+.plugin.webkit.chrome.win.Locale_en_US{
+	float:left;
+	background-color:#ffffff;
+}
+
+#simplesubscribe-2.widget.widget_simplesubscribe{
+	width: 304px !important;
+	margin: 10px 0px 0px 69%;
+}
+
+.showYourSupport a img{
+	margin-left: 74px;
+}
+
+.upcomingContainer{
+	width: 230px !important;
+	float: left !important;
+	margin-left: 43px;
+	margin-top: 15px;
+	padding: 10px 60px !important;
+}
+
+.shopPortContainer{
+	margin-top: -28% !important;
+	width: 510PX;
+	margin-left: 67px !important;
+}
+
+.footerContainer {
+	width: 103% !important;
+	position: relative;
+	top: 37px;
+	left: 61px;
+}
+
+.footerMenu{
+	margin: 0px 0px 0px 35px !important;
+	width: 96%;
+	line-height: 20px;
+}
+
+.footerMenu ul li{
+	line-height: 13px !important;
+	padding-top: 0px;
+	font-size: 12px;
+} 
+
+.footerContact{
+	margin: 0px 0px 0px 35px;
+	width: 96% !important;
+	text-align: justify !important;
+}
+.footerContact p{
+	line-height: 15px !important;
+	padding-top: 0px;
+	font-size: 12px;
+}
+
+.footerSocial{
+	margin: 7px 0px 0px 35px;
+	width: 96% !important;
+	text-align: justify !important;
+}
+
+.fbLikeContainer{
+	margin: 14px 0px 0px 45% !important;
+}
+
+
+/*###########################*/
+
+.middleLeft{
+	width: 91% !important;
+	margin-top: 35px !important;
+}
+
+.entry-content{
+	width: 96%;
+	height: auto;
+	overflow: hidden;
+}
+
+#container{
+	width: 98%;
+	margin-left: 10px;
+}
+
+img.attachment-.wp-post-image{
+	width: 248px !important;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width : 768px) and (min-width: 758px){
+
+body{
+	background-size: 100% 109% !important;
+	overflow-x: hidden;
+}
+
+.logo{
+	margin-top:5px !important;
+}
+
+[id*="advpsslideshow_"]{
+	width: 520px !important;
+}
+
+.logo a img{
+	width: 270PX;
+	margin-top: 50px;
+	height: 202px;
+}
+.customize-support{
+	background-size:100% 100%;
+}
+
+.headerContainer{
+	width:30% !important;
+}
+
+.sliderInfoContainer{
+	width: 65% !important;
+	padding: 0px !important;
+	margin-left: 43%;
+}
+
+.middleContainer{
+	width: 100%;
+	float: none;
+	margin: 0px !important;	
+}
+
+#menu-menu{
+	display:none;
+}
+.responsive-menu{
+	display:block;
+}
+
+
+embed{
+	width: 92%;
+	border: 10px solid #31459E;
+}
+
+.video_emb {
+	width: 290%;
+}
+
+ul.kebo-tweets.list.light{
+	margin: 12% 0px -20px 72% !important;
+	width: 350px;
+	height: 244px;
+	overflow: hidden;
+}
+
+ul.video_list{
+	float: left !important;
+	padding-left: 10px;
+	width: 485px !important;
+	margin-top: -4px;
+	
+}
+
+.video_list li a{
+	width: 450px !important;
+}
+
+.video_list li h3{
+	width: 380px !important;
+}
+
+.video_list li p{
+	width: 380px !important;
+}
+
+.upcomingEvents{
+	margin-left: 90px;
+}
+
+.advps-excerpt-one{
+	height: 35% !important;
+}
+
+.advps-slide-container {
+	width: 62.5% !important;
+	margin-left: 58%;
+}
+
+img.attachment-full.wp-post-image{
+	width: 80% !important;
+}
+
+.sliderContainer{
+	width:73%;
+}
+
+#advpsslideshow_109106{
+	width:132%;
+}
+
+.advps-overlay-one{
+	width: 80%;
+	height: 100%;
+	padding-top: 12px;
+	margin-top: -13px;
+}
+
+.advps-right-arrow{
+	left: 443px !important;
+}
+
+.advps-excerpt-block-one{
+	height: 130px;
+	margin-top: -45px;
+}
+
+#advpsslideshow_729902{
+	width:101% !important;
+}
+
+h2.advs-title{
+	width: 80%;
+	height: 118px;
+	line-height: 74px !important;
+	padding-left: 6px;
+}
+
+.advps-excerpt-block-one P{
+	font-size: 14px;
+	width: 80%;
+	padding-left: 5px;
+	margin-top: -65px;
+}
+
+.postContainer{
+	width: 140% !important;
+	margin: 0px !Important;
+}
+
+.upcomingEvents h1{
+	width: 238px;
+	float: right;
+}
+
+.postImg{
+	width: 131px !important;
+	margin-left: 70px;
+}
+
+.postTxt{
+	float: right !important;
+	width: 240px !important;
+	padding-right: 10px !important;
+	padding-bottom: 5px !Important;
+}
+
+.socialInfoContainer{
+	float:none !important;
+}
+
+.fb-like-box.fb_iframe_widget{
+	margin-left: 12px;
+}
+
+.sponsorContainer{
+	width: 452px;
+	margin-left: 88px;
+}
+
+.sponsorContainer span{
+	float:none;
+}
+
+.sponsorContainer span:nth-child(3){
+	margin-left: 15px !important;	
+}
+
+.sponsorContainer span:nth-child(4){
+	margin-left: 53px !important;	
+}
+
+.jcarousel-skin-tango{
+	width: 93%;
+	margin-left: -44px;	
+}
+
+.jcarousel-container.jcarousel-container-horizontal{
+	width: 52% !important;
+	margin: 0px 0px 0px 35px !important;	
+}
+
+.shopPortContainer h1{
+	width: 36%;
+	float: left;
+	padding-left: 50px;
+}
+#simplesubscribe-2 .widgetGuts {
+	margin-left: 4px !important;
+}
+
+#simplesubscribe-2 #frm-email {
+	width: 216px !important;
+}
+
+.middleRight{
+	float: left !important;
+	width: 35.5% !important;
+	margin-left: 72px;
+}
+
+.plugin.webkit.chrome.win.Locale_en_US{
+	float:left;
+	background-color:#ffffff;
+}
+
+#simplesubscribe-2.widget.widget_simplesubscribe{
+	width: 360px !important;
+	margin: 10px 0px 0px 123PX;
+}
+
+.showYourSupport a img{
+	margin-left: 153PX;
+}
+
+.upcomingContainer{
+	width: 230px !important;
+	float: left !important;
+	margin-left: 123px;
+	margin-top: 15px;
+	padding: 10px 60px !important;
+}
+
+.shopPortContainer{
+	margin-top: -66% !important;
+	width: 600PX;
+	margin-left: 145px !important;
+}
+
+.footerContainer {
+	width: 228% !important;
+	position: relative;
+	top: 23px;
+	left: 10px;
+}
+
+.footerMenu{
+	margin: 0px 0px 0px 105px !important;
+	width: 24%;
+	line-height: 20px;
+}
+
+.footerMenu ul li{
+	line-height: 13px !important;
+	padding-top: 0px;
+	font-size: 12px;
+} 
+
+.footerContact{
+	width: 30% !important;
+	text-align: justify !important;
+}
+.footerContact p{
+	line-height: 15px !important;
+	padding-top: 0px;
+	font-size: 12px;
+}
+
+.footerSocial{
+	width: 26% !important;
+	text-align: justify !important;
+}
+
+.fbLikeContainer{
+	margin: 14px 0px 0px 85% !important;
+}
+
+
+/*###########################*/
+
+.middleLeft{
+	width: 91% !important;
+	margin-top: 35px !important;
+}
+
+.entry-content{
+	width: 96%;
+	height: auto;
+	overflow: hidden;
+}
+
+#container{
+	width: 98%;
+	margin-left: 10px;
+}
+
+img.attachment-.wp-post-image{
+	width: 248px !important;
+}
+
+
+}
