@@ -16,7 +16,7 @@
                 	<a href="http://www.portmelbournefc.com.au/product-category/membership/"><img src="<?php bloginfo('template_url');?>/images/showYour2014.jpg" width="304" height="103"> </a>
                 </div>
                 <?php
-					$urlString = plugins_url()."/manage-profiles/images/";
+					/*$urlString = plugins_url()."/manage-profiles/images/";
 					$sqlSpnr = mysql_query("select * from ".$wpdb->prefix ."manage_profiles WHERE type='4' order by sortingOrder asc");
 					$numRowsSpnr = mysql_num_rows($sqlSpnr);
 					if($numRowsSpnr>0){
@@ -31,7 +31,7 @@
 						echo '</div>';
 					}else{
 						echo '<p>No Data Found.</p>';
-					}
+					}*/
 				?>
             </div>	   
             <div class="shopPortContainer">
